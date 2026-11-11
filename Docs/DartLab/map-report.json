@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "map": "/Game/DartLab/Maps/L_DartLab",
+  "actors": [
+    "LabFloor",
+    "DartBoard",
+    "DartBody",
+    "DartTip",
+    "DartFlights",
+    "LabPlayerStart",
+    "LabLight"
+  ],
+  "board_face_distance_cm": 237,
+  "board_center_height_cm": 173,
+  "board_diameter_cm": 45.1,
+  "stage": "static baseline; no grab or throw implemented",
+  "headset_tested": false
+}
